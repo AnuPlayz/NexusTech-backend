@@ -1,2 +1,1 @@
-# leetcode-backend
-Backend for leetcode chrome extension
+# Leetcode-Chrome-Extension
